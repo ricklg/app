@@ -1,0 +1,7 @@
+{
+    "name": "ricklg/app",
+    "description": "test",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
