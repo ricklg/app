@@ -2,6 +2,7 @@
     "name": "ricklg/app",
     "description": "test",
     "type": "project",
-    "minimum-stability": "dev",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "require": {}
 }
